@@ -1,7 +1,7 @@
 # 🛒 Simples Tycoon no Roblox
 ⚠️ **ATENÇÃO:** Esse é um projeto antigo feito com o intuito apenas de aprendizado, o jogo possui partes incompletas (como por exemplo o segundo andar da Tycoon), mas se encontra funcional.
 
-🔗 **Link desse tycoon em meu perfil:** https://www.roblox.com/games/15219692807/My-old-Tycoon-Test
+🔗 **Link desse tycoon em meu perfil:** https://www.roblox.com/games/15219692807/My-old-Tycoon-Test<br>
 🔗 **Link de outro tycoon teste meu:** https://www.roblox.com/games/9994938808/Simple-Tycoon
 
 ## 📋 Créditos
