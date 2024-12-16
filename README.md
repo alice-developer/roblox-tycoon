@@ -5,7 +5,7 @@
 🔗 **Link de outro tycoon teste meu:** https://www.roblox.com/games/9994938808/Simple-Tycoon
 
 ## 📋 Créditos
-- **Programação:** Alice Developer
+- **Scripts:** Alice Developer
 - **Build:** Alice Developer
 
 ## ❤️ Muito obrigada por ler até aqui
